@@ -1,0 +1,10 @@
+
+    PROBLEM							SOLUTION
+1)Health Checkup App		1)There will be a system of inputs where we can give the reading of the rates of different parts and there will be some conditions
+				   like if the heart rate is between a range that is suitable for us then it will show whether it is normal high or low.
+
+
+2)Restaurant App		2)According to my idea there will a Home Screen where there will a Welcome greeting, then we'll have to choose what kind of orders 
+				   we want right now like the 'Starters' or 'Main Course' and then we will be navigated to the menu chart, from there we will select
+				    the one we want to have and and at the last if there's any discount we will show the SP and there will be the payment procedures at the last.
+				   
